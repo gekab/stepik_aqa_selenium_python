@@ -4,3 +4,4 @@ Scripts
 Lib
 py/main.py
 py/sendbox.py
+get-pip.py

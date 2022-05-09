@@ -10,6 +10,7 @@ try:
     browser.get('http://suninjuly.github.io/explicit_wait2.html')
     # 2. Дождаться, когда цена дома уменьшится до $100 (ожидание нужно установить не меньше 12 секунд)
     # говорим Selenium проверять в течение 15 секунд, пока кнопка не станет кликабельной
+    flag = False
     WebDriverWait(browser, 15).until(
         EC.text_to_be_present_in_element((By.ID, "price"), text_='$100')
     )
@@ -22,3 +23,4 @@ try:
     print(browser.switch_to.alert.text.split(':')[1])
 finally:
     browser.quit()
+
