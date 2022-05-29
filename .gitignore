@@ -5,3 +5,4 @@ Lib
 py/main.py
 py/sendbox.py
 get-pip.py
+py/.pytest_cache
