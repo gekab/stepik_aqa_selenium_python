@@ -2,5 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3_6_step_9" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/check_tasks/1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/check_tasks/1/PyTest_lesson3_6_step9" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/check_tasks/2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/check_tasks/2/PyTest3.6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/check_tasks/3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/check_tasks/3/stepik_auto_tests_course" vcs="Git" />
   </component>
 </project>
